@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889185692745",
+    "firebase_url": "https://foood-fc063.firebaseio.com",
+    "project_id": "foood-fc063",
+    "storage_bucket": "foood-fc063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889185692745:android:0fe2525ca459ae46a3e398",
+        "android_client_info": {
+          "package_name": "com.example.foood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889185692745-82c377k0brffp5t7a3k2pctqh3vpalf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foood",
+            "certificate_hash": "bf72375ee8cdfe80e1bfcc6669f16859c7d02666"
+          }
+        },
+        {
+          "client_id": "889185692745-rnp57lto2in09eacq7dcr2pm9dptuigp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhRCeLS0SkyMpRErgDRuippKaryR5lSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889185692745-rnp57lto2in09eacq7dcr2pm9dptuigp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
